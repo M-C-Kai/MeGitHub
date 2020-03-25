@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    padding-top: 41px;
+}
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #232323;
+}
