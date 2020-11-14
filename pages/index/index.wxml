@@ -1,0 +1,16 @@
+<button bindtap="getAvaterInfo" open-type='getUserInfo' bindgetuserinfo="getuser">
+生成海报
+</button>
+<!-- 
+<canvas style="width: {{width}}px; height: {{height}}px; margin:auto;background:rgba(255,255,255);" canvas-id="canvpos"/> -->
+<!-- 海报下的'保存图片' -->
+<!-- <view catchtap='saveCanvas' style='margin-top: 20rpx;'>
+  <canvas style="width: {{widd}}px; height: {{pinh}}px;" canvas-id="savetoDude"/>
+</view> -->
+
+<button bindtap="getimages">保存海报</button>
+
+<!-- <video src='https://cdn.juesedao.cn/gxw/gxwxuanchuan%7E1.mp4'></video> -->
+
+<button bindtap="xiaz">下载视频</button>
+<button bindtap="getMessage">订阅信息</button>
