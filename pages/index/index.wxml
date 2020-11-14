@@ -10,7 +10,7 @@
 
 <button bindtap="getimages">保存海报</button>
 
-<!-- <video src='https://cdn.juesedao.cn/gxw/gxwxuanchuan%7E1.mp4'></video> -->
+<!-- <video src='https://cdn.juesedao.cn/gxw/gxwxuanchuan%7E1.mp4'></video>
 
 <button bindtap="xiaz">下载视频</button>
-<button bindtap="getMessage">订阅信息</button>
+<button bindtap="getMessage">订阅信息</button> -->
